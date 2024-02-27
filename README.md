@@ -55,7 +55,8 @@ Here is the exploit walkthroughs: Lets visualize the Objective. <br/>
 
 
 <br />
-4. Use the Main function to call the  functions
+4. Use the Main function to call the  functions.
+Note: Using if __name__ == "__main__": in Python ensures code inside it runs only when the script is executed directly, enhancing modularity, reusability, and clarity, and defining a clear entry point.
 <img src="https://imgur.com/cnIE5Rg.png" height="80%" width="80%" alt="set up"/>
 <br />
 <br />
