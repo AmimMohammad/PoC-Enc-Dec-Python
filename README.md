@@ -3,7 +3,7 @@
 
 <h1>Encryption - Decryption</h1>
 
-<img src="https://imgur.com/gNsLJTR.png" height="80%" width="80%" alt="diagram"/>
+<img src="https://imgur.com/TRmUOfS.png" height="80%" width="80%" alt="diagram"/>
 
 
 
